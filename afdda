@@ -1,0 +1,12 @@
+[33md039208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m member.html 새로 생성
+[33mef59c21[m member.html 생성
+[33mcf46e4a[m test01.html 관리자 페이지 추가
+[33m6209ec2[m[33m ([m[1;31morigin/main[m[33m)[m Initial commit
+[33ma7c84ec[m event.html 핑ㄹ 생성하고 이벤트 게시판 이관
+[33mb671cf6[m 보낸 메일 확인 기능수정
+[33m80e6e33[m 이벤트 게시판 기능 추가 및 스팸 필터 기능 테스트 추가
+[33mee0e6e2[m bbs.html -> board.html 이름 변경 mail 기능 추가
+[33me9d7623[m bbs,index,mail,text01 내용추가 기능추가
+[33m4a039eb[m index.html 수정 , bbs,mail,test01 html 파일 생성
+[33m32e9844[m index.html header, content, footer 작성하고 1차 완료
+[33m07b3b64[m 프로젝트 생성 - 첫 번째 커밋 commit
